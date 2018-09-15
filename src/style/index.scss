@@ -1,0 +1,14 @@
+@import 'config';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: $primary-color;
+}
+
+canvas {
+  display: block;
+}
